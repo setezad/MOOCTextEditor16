@@ -1,0 +1,9 @@
+** Test #1: Testing short path...Your path was: The path starts here: 
+pool, spool, spoon.
+** Test #2: Testing long path...Your path was: The path starts here: 
+stools, tools, fools, fool, pool, spool, spoon, soon, moon.
+** Test #3: Testing impossible path...Your path was: The path starts here: 
+.
+** Test #4: Testing using a nonexistent word...Your path was: The path starts here: 
+.
+Tests complete. Make sure everything looks right.
